@@ -1,0 +1,1 @@
+import{_ as o,r as n,f as a,o as r,w as s,e as c}from"./index-BY8W_bwT.js";const _={};function x(f,e){const t=n("MaxText");return r(),a(t,null,{default:s(()=>[...e[0]||(e[0]=[c("NATIVE",-1)])]),_:1})}const p=o(_,[["render",x]]);export{p as default};
