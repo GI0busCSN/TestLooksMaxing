@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BUR-15FX.js"],function(e,t){"use strict";var n,r,u,s,c,f;return{setters:[e=>{n=e._,r=e.r,u=e.f,s=e.o,c=e.w,f=e.e}],execute:function(){e("default",n({},[["render",function(e,t){const n=r("MaxText");return s(),u(n,null,{default:c(()=>[...t[0]||(t[0]=[f("NATIVE",-1)])]),_:1})}]]))}}});
