@@ -1,0 +1,1 @@
+import{p as t,f as s,w as a,r as n,o as r,b as l}from"./index-iDM7hF1n.js";const c=t({__name:"Results",setup(p){return(u,e)=>{const o=n("BaseLayout");return r(),s(o,null,{default:a(()=>[...e[0]||(e[0]=[l("h1",null,"Res",-1)])]),_:1})}}});export{c as default};
