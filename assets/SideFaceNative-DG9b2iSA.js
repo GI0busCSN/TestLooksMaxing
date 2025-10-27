@@ -1,0 +1,1 @@
+import{_ as o,r as a,f as n,o as r,w as s,e as c}from"./index-BHHRSQZA.js";const _={};function x(f,e){const t=a("MaxText");return r(),n(t,null,{default:s(()=>[...e[0]||(e[0]=[c("NATIVE",-1)])]),_:1})}const d=o(_,[["render",x]]);export{d as default};
