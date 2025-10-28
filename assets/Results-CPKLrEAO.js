@@ -1,0 +1,1 @@
+import{C as t,b as s,w as a,r as n,o as r,d as l}from"./index-DiKLl5a3.js";const c=t({__name:"Results",setup(u){return(p,e)=>{const o=n("BaseLayout");return r(),s(o,null,{default:a(()=>[...e[0]||(e[0]=[l("h1",null,"Res",-1)])]),_:1})}}});export{c as default};
