@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BGAJiclI.js"],function(e,t){"use strict";var s,u,n,r,l,a;return{setters:[e=>{s=e.C,u=e.b,n=e.w,r=e.r,l=e.o,a=e.d}],execute:function(){e("default",s({__name:"Results",setup:e=>(e,t)=>{const s=r("BaseLayout");return l(),u(s,null,{default:n(()=>[...t[0]||(t[0]=[a("h1",null,"Res",-1)])]),_:1})}}))}}});
